@@ -1,3 +1,3 @@
-# tensorflow2.1.0
+# tfjs
 
 ## CNN 手写数字识别
